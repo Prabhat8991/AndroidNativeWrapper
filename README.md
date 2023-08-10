@@ -1,8 +1,8 @@
 # AndroidNativeWrapper
 
 ## Steps to integrate ReactNative app
-1. From your ReactNative Repo; generate .aar for Android.
-2. Add this .aar as dependency in Android Native project. Refer ReactNativeSampleApp project
+1. From your ReactNative Repo; generate .aar for Android. Refer ReactNativeSampleApp project
+2. Add this .aar as dependency in Android Native project. 
 3. Generate index.android.bundle and assets, copy them to assets and res folder of native android app.
 
    Use this script: 
