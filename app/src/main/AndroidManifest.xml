@@ -14,7 +14,7 @@
         android:supportsRtl="true"
         tools:targetApi="31">
         <activity
-            android:name=".MainActivity"
+            android:name="com.example.frameworkpoc.MainActivity"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar"
             android:exported="true">
             <intent-filter>
